@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(223, 212, 212);
+}
+h1{
+    color:red;
+}
+/*Adição da cor vermelha*/
+
+.paragrafo{
+    color:blue;
+}
+/*adição da cor azul.*/
+
+.titulo{
+    color:blueviolet
+}
